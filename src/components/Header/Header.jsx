@@ -24,17 +24,6 @@ const Container = styled.header`
   align-items: center;
   justify-content: space-between;
 `;
-
-const Logo = styled.h1`
-  font-size: 24px;
-  color: #fff;
-  margin: 0;
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-`;
-
 const Nav = styled.nav``;
 
 const NavLink = styled(Link)`
